@@ -1,0 +1,26 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>5547758_eea9edfd54_n.jpg</filename>
+	<path>C:\Users\Anant\Downloads\object_detection_demo-master\data\raw\5547758_eea9edfd54_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>232</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>daisy</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>47</ymin>
+			<xmax>251</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>
