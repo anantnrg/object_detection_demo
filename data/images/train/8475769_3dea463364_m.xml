@@ -1,7 +1,7 @@
 <annotation>
-	<folder>raw</folder>
+	<folder>dandelion</folder>
 	<filename>8475769_3dea463364_m.jpg</filename>
-	<path>C:\Users\Anant\Downloads\object_detection_demo-master\data\raw\8475769_3dea463364_m.jpg</path>
+	<path>D:\FlowerDatset\dandelion\8475769_3dea463364_m.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,61 +14,13 @@
 	<object>
 		<name>dandelion</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>34</xmin>
-			<ymin>123</ymin>
-			<xmax>105</xmax>
-			<ymax>221</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>dandelion</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>34</xmin>
-			<ymin>90</ymin>
-			<xmax>92</xmax>
-			<ymax>120</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>dandelion</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>31</xmin>
-			<ymin>31</ymin>
-			<xmax>92</xmax>
-			<ymax>90</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>dandelion</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>31</xmin>
-			<ymin>31</ymin>
-			<xmax>158</xmax>
-			<ymax>115</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>dandelion</name>
-		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>158</xmin>
-			<ymin>115</ymin>
-			<xmax>180</xmax>
-			<ymax>164</ymax>
+			<xmin>34</xmin>
+			<ymin>45</ymin>
+			<xmax>143</xmax>
+			<ymax>240</ymax>
 		</bndbox>
 	</object>
 </annotation>

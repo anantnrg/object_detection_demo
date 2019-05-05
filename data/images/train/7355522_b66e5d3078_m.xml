@@ -1,7 +1,7 @@
 <annotation>
-	<folder>raw</folder>
+	<folder>dandelion</folder>
 	<filename>7355522_b66e5d3078_m.jpg</filename>
-	<path>C:\Users\Anant\Downloads\object_detection_demo-master\data\raw\7355522_b66e5d3078_m.jpg</path>
+	<path>D:\FlowerDatset\dandelion\7355522_b66e5d3078_m.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>83</xmin>
-			<ymin>67</ymin>
-			<xmax>179</xmax>
-			<ymax>158</ymax>
+			<xmin>2</xmin>
+			<ymin>7</ymin>
+			<xmax>207</xmax>
+			<ymax>225</ymax>
 		</bndbox>
 	</object>
 </annotation>

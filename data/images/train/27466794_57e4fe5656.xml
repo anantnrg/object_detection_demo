@@ -1,7 +1,7 @@
 <annotation>
-	<folder>raw</folder>
+	<folder>sunflowers</folder>
 	<filename>27466794_57e4fe5656.jpg</filename>
-	<path>C:\Users\Anant\Downloads\object_detection_demo-master\data\raw\27466794_57e4fe5656.jpg</path>
+	<path>I:\FlowerDatset\sunflowers\27466794_57e4fe5656.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>sunflower</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>37</xmin>
-			<ymin>40</ymin>
-			<xmax>500</xmax>
-			<ymax>358</ymax>
+			<xmin>51</xmin>
+			<ymin>72</ymin>
+			<xmax>491</xmax>
+			<ymax>362</ymax>
 		</bndbox>
 	</object>
 </annotation>
